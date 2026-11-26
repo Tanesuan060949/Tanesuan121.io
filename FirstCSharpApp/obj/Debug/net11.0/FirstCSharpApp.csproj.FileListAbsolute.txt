@@ -1,0 +1,16 @@
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.exe
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.deps.json
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.runtimeconfig.json
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.runtimeconfig.dev.json
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.dll
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.pdb
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.AssemblyInfoInputs.cache
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.AssemblyInfo.cs
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.dll
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\obj\Debug\net11.0\refint\FirstCSharpApp.dll
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.pdb
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.genruntimeconfig.cache
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\obj\Debug\net11.0\ref\FirstCSharpApp.dll
+C:\Users\Asus tuf\Desktop\CS_2_2569\FirstCSharpApp\obj\Debug\net11.0\FirstCSh.11A64EF1.Up2Date
